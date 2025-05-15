@@ -24,3 +24,8 @@ This project presents a comprehensive analysis of the COVID-19 pandemic using gl
    ```bash
    git clone https://github.com/Bbrnn/Covid19GlobalTracker.git
    cd Covid19GlobalTracker
+2. Open the notebook:\
+Launch Jupyter Notebook or VS Code with Jupyter extension.\
+Open covid19_global_tracker.ipynb.\
+Run all cells from top to bottom.\
+Make sure the CSV data file (owid-covid-data.csv) is placed in the same directory or update the path accordingly.
